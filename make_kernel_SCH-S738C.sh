@@ -1,2 +1,0 @@
-make amazing3g_cdma_00_defconfig
-make
